@@ -10,7 +10,7 @@ public class Student
     public Student(String name, int roll_no)
     {
         this.name = name;
-        this.age = age;
+        this.roll_no = roll_no;
     }
    
     // method 1
